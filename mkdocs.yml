@@ -1,44 +1,4 @@
-site_name: Cabe's Corner 
+site_name: My site
+site_url: https://mydomain.org/mysite
 theme:
   name: material
-  
-#  features:
-    # Navigation
-    #- navigation.instant
-    #- navigation.instant.progress
-    #- navigation.top
-    #- navigation.expand
-    #- navigation.path
-    # Search
-    #- search.suggest
-    #- search.highlight
-    # Content
-    #- content.tabs.link
-    #- content.code.annotation
-    #- content.code.copy
-#  language: en
-  
-  # Navigation
-  #nav:
-  #- Section:
-  #  - Home: docs/1-index.md
-  #  - Notes: docs/999-notes.md
-
-#  # Color Scheme for both light and dark thems
-#  palette:
-#    - scheme: default
-#      toggle:
-#        icon: material/toggle-switch-off-outline 
-#        name: Switch to dark mode
-#      primary: teal
-#      accent: purple 
-#    - scheme: slate 
-#      toggle:
-#        icon: material/toggle-switch
-#        name: Switch to light mode    
-#      primary: teal
-#      accent: lime
-#extra:
-#  generator: false
-#markdown_extensions:
-#  - attr_list
