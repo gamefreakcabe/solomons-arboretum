@@ -2,7 +2,7 @@ site_name: Cabe's Corner
 site_url: https://mydomain.org/mysite
 theme:
   name: material
-
+  
   features:
     # Navigation
     - navigation.instant
@@ -22,7 +22,7 @@ theme:
   # Navigation
   nav:
   - Section:
-   - Home: docs/index.md
+    - Home: docs/index.md
   #  - Hardware Deployment: docs/2-collector-deployments.md
   #  - Monitoring Collector Network: docs/3-monitoring-collector-network.md
   #  - Archieve Docs: docs/4-archieve.md
