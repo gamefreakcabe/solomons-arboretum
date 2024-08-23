@@ -1,8 +1,6 @@
-site_name: Layer 3 Communications Docs
+site_name: Cabe's Corner 
 theme:
   name: material
-  logo: static/logo.png
-  favicon: static/favicon.png
   
   features:
     # Navigation
