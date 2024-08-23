@@ -10,19 +10,19 @@ theme:
     - navigation.expand
     - navigation.path
     # Search
-    - search.suggest
-    - search.highlight
+    #- search.suggest
+    #- search.highlight
     # Content
-    - content.tabs.link
-    - content.code.annotation
-    - content.code.copy
+    #- content.tabs.link
+    #- content.code.annotation
+    #- content.code.copy
   language: en
   
   # Navigation
   nav:
   - Section:
     - Home: docs/1-index.md
-    - Notes: docs/99-notes.md
+  #  - Notes: docs/999-notes.md
 
   # Color Scheme for both light and dark thems
   palette:
@@ -42,11 +42,3 @@ extra:
   generator: false
 markdown_extensions:
   - attr_list
-
-# Extenstion for mermaid support
-markdown_extensions:
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
