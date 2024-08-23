@@ -22,11 +22,7 @@ theme:
   nav:
   - Section:
     - Home: docs/1-index.md
-    - Hardware Deployment: docs/2-collector-deployments.md
-    - Monitoring Collector Network: docs/3-monitoring-collector-network.md
-    - Archieve Docs: docs/4-archieve.md
-    - KVM: docs/7-kvm.md
-    - Notes: docs/8-notes.md
+    - Notes: docs/99-notes.md
 
   # Color Scheme for both light and dark thems
   palette:
