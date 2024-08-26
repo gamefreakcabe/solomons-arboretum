@@ -2,8 +2,8 @@ site_name: Epicurus Productions
 site_url: https://mydomain.org/mysite
 theme:
   name: material
-  logo: static/logo.png
-  favicon: static/logo.png
+  logo: static/logo.jpeg
+  favicon: static/logo.jpeg
   
   features:
     # Navigation
