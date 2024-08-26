@@ -4,6 +4,8 @@ theme:
   name: material
   logo: static/logo.jpeg
   favicon: static/logo.jpeg
+  icon:
+    previous: fontawesome/solid/angle-left
   
   features:
     # Navigation
