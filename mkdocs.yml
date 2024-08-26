@@ -1,7 +1,9 @@
-site_name: Cabe's Corner
+site_name: Epicurus Productions
 site_url: https://mydomain.org/mysite
 theme:
-  name: material
+  name: materiali
+  logo: static/logo.png
+  favicon: static/logo.png
   
   features:
     # Navigation
