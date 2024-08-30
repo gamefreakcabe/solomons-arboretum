@@ -3,7 +3,7 @@ site_url: https://mydomain.org/mysite
 theme:
   name: material
   font:
-    text: Ubuntu
+    text: Acme
   logo: static/logo.jpeg
   favicon: static/logo.jpeg
   
