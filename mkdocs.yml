@@ -44,10 +44,10 @@ theme:
         name: Switch to light mode    
       primary: black
       accent: lime
-extra:
-  generator: false
-markdown_extensions:
-  - attr_list
+#extra:
+#  generator: false
+#markdown_extensions:
+#  - attr_list
 
 # Extenstion for mermaid support
 markdown_extensions:
