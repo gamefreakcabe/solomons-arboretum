@@ -15,6 +15,7 @@ theme:
     - navigation.expand
     - navigation.path
     - navigation.tabs
+    - navigation.tabs.sticky
     # Search
     - search.suggest
     - search.highlight
