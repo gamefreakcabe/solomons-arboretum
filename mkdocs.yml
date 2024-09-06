@@ -29,7 +29,8 @@ theme:
   nav:
   - Section:
     - Home: docs/index.md
-    - New Page: docs/2-about.md
+    - About: docs/2-about.md
+    - Scions of Covenant: docs/3-soc.md
     - Credits: docs/999-credits.md
 
   # Color Scheme for both light and dark thems
