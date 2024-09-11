@@ -23,6 +23,8 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    # test
+    - navigation.indexes
   language: en
   
   # Navigation
@@ -30,7 +32,7 @@ theme:
   - Section:
     - Home: docs/index.md
     - About: docs/2-about.md
-    - Scions of Covenant: docs/3-soc.md
+    - Scions of Covenant: blog/index.md
     - Credits: docs/999-credits.md
 
   # Color Scheme for both light and dark thems
@@ -47,6 +49,8 @@ theme:
         name: Switch to light mode    
       primary: black
       accent: lime
+plugins:  
+  - blog  
 #extra:
 #  generator: false
 #markdown_extensions:
