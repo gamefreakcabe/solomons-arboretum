@@ -30,9 +30,10 @@ theme:
   # Navigation
   nav:
   - Section:
+    - soc/index.md 
     - Home: docs/index.md
     - About: docs/2-about.md
-    - Scions of Covenant: blog/index.md
+    - Scions of Covenant: soc/p1.md
     - Credits: docs/999-credits.md
 
   # Color Scheme for both light and dark thems
@@ -49,8 +50,7 @@ theme:
         name: Switch to light mode    
       primary: black
       accent: lime
-plugins:  
-  - blog  
+
 #extra:
 #  generator: false
 #markdown_extensions:
