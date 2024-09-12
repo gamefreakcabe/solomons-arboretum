@@ -30,10 +30,10 @@ theme:
   # Navigation
   nav:
   - Section:
-    - soc/index.md
+    - section/index.md
     - Home: docs/index.md
     - About: docs/2-about.md
-    - Scions of Covenant: soc/p1.md
+    - Scions of Covenant: section/p1.md
     - Credits: docs/999-credits.md
     - Page1: soc/p1.md
 
