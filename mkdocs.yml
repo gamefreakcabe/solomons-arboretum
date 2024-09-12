@@ -25,6 +25,7 @@ theme:
     - content.code.copy
     # test
     - navigation.indexes
+    - navigation.sections
   language: en
   
   # Navigation
