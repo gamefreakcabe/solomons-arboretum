@@ -55,8 +55,8 @@ theme:
 
 #extra:
 #  generator: false
-#markdown_extensions:
-#  - attr_list
+markdown_extensions:
+  - attr_list
 
 # Extenstion for mermaid support
 markdown_extensions:
