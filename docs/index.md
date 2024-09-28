@@ -6,3 +6,4 @@
 <img title="character lee" src="../images/CoS/lee1.jpeg">
 
 
+<img title="test" src="../static/logo.jpeg">
