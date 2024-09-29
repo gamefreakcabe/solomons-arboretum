@@ -4,7 +4,7 @@ theme:
   name: material
   font:
     text: Acme
-  logo: static/logo.jpeg
+  logo: /logo.jpeg
   favicon: static/logo.jpeg
   
   features:
