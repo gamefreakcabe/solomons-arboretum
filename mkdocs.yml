@@ -32,7 +32,6 @@ theme:
   nav:
   - Section:
     - Home: docs/index.md
-    - About: docs/2-about.md
     - Credits: docs/999-credits.md
     - Scions of the Covenant:
       - blog/index.md

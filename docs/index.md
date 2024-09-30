@@ -1,13 +1,9 @@
 # Home
 
-* **Location:** Desert Prison, Unknown Location
+## Origin
 
-![setting desert prison](images/CoS/desert-prison-2.jpeg)
+Epicurus Productions started in 2024 as a response to the shift in society where political ideas were becoming the more important than principal ideas. EP's goal is to design, build, and publish more principal pieces of work.
 
-* **Subject:** Umbra, the Shadow
-
-![character lee](images/CoS/shadow2.jpeg)
-
-* **Subject:** Edward Lee, prisoner
-
-![character lee](images/CoS/lee1.jpeg)
+* **Core Tenants**
+    * Historically Inspired
+    * Biblical Foundation
