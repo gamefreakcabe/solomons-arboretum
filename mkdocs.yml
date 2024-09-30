@@ -33,10 +33,9 @@ theme:
   - Section:
     - Home: docs/index.md
     - About: docs/2-about.md
-    - Scions of Covenant: section/p1.md
     - Credits: docs/999-credits.md
     - Page1: soc/p1.md
-    - Blog:
+    - Scions of the Covenant:
       - blog/index.md
 
   # Color Scheme for both light and dark thems
