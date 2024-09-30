@@ -34,7 +34,6 @@ theme:
     - Home: docs/index.md
     - About: docs/2-about.md
     - Credits: docs/999-credits.md
-    - Page1: soc/p1.md
     - Scions of the Covenant:
       - blog/index.md
 
