@@ -31,7 +31,7 @@ theme:
   # Navigation
   nav:
   - Section:
-    - Home: docs/1-index.md
+    - Home: docs/index.md
     - Credits: docs/999-credits.md
 
   # Color Scheme for both light and dark thems
