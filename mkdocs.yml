@@ -61,8 +61,8 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Scions of the Covenant:
-    - stories/index.md
-    - The Shadow One and the General: stories/shadow-general.md
-    - The Spec Ops and the Healer: stories/specops-healer.md
-    - The Convict and the Spy: stories/convict-spy.md
+    - sotc/index.md
+    - The Shadow One and the General: sotc/shadow-general.md
+    - The Spec Ops and the Healer: sotc/specops-healer.md
+    - The Convict and the Spy: sotc/convict-spy.md
   - Credits: credits.md
