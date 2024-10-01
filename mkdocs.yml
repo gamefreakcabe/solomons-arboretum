@@ -32,8 +32,9 @@ theme:
   nav:
     - Home: index.md
     - Scions of the Covenant:
-      - Scions-of-the-Covenant/index.md
-      - The Shadow One and the General: Scions-of-the-Covenant/shadow-general.md
+      - stories/index.md
+      - The Shadow One and the General: stories/shadow-general.md
+      
     - Credits: credits.md
 
   # Color Scheme for both light and dark theme
