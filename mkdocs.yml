@@ -2,7 +2,6 @@ site_name: Epicurus Productions
 site_url: https://gamefreakcabe.github.io/
 theme:
   name: material
-  custom_dir: material/overrides
   font:
     text: Acme
   logo: static/logo.jpeg
