@@ -34,7 +34,6 @@ theme:
     - Home: docs/1-index.md
     - Scions of the Convenant: 
       - Home: docs/2-soc.md
-      - The Spec Ops and the Healer: docs/soc/spec-healer.md
     - Credits: docs/999-credits.md
 
   # Color Scheme for both light and dark thems
