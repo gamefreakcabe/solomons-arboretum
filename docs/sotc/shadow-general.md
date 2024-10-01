@@ -12,7 +12,7 @@
 
 ![character lee](../images/CoS/shadow2.jpeg)
 
-### Edward Lee, prisoner
+### Edward Lee, the prisoner
 
 ![character lee](../images/CoS/lee1.jpeg)
 
