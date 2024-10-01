@@ -32,7 +32,7 @@ theme:
   nav:
     - Home: index.md
     - Scions of the Covenant:
-      - Title: soc/title.md
+      - soc/index.md
       - The Shadow One and the General: soc/shadow-general.md
     - Credits: credits.md
 
