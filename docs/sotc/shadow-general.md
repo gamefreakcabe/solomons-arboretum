@@ -6,6 +6,10 @@
 
 ![Prison](../images/CoS/desert-prison-2.jpeg)
 
+### Prison Cell
+
+![Prison-Cell](../images/CoS/desert-prison-8.jpeg)
+
 ## Subjects
 
 ### Umbra, the Shadow
