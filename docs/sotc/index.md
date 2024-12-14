@@ -12,6 +12,6 @@ After a critical mission, a special trained soldier recovers in the medical bay 
 
 **In Development**
 
-## The Witch and the Scion
+## The Witch and the Templar
 
 **In Development**
