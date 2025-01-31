@@ -60,6 +60,8 @@ markdown_extensions:
 # Navigation
 nav:
   - Home: index.md
+  - Athenaeum: 
+    - athen/index.md
   - Scions of the Covenant:
     - sotc/index.md
     - The Shadow One and the General: sotc/shadow-general.md
