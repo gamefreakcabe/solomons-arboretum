@@ -1,5 +1,9 @@
 # Scions of the Covenant
 
+## Summary
+
+Embark on anthology of non-sequential stories following those that were most affected by "men of renown" across the vast ocean of the galaxy.
+
 ## The Shadow One and the Prisoner
 
 A cloaked figure visits a decrepit man, who for many years been in a prison for those who are completely removed from society and history. The cloaked figure is looking for information from the man's extensive and forgotten past. What information is so important that this mysterious stranger visits a old man long forgotten by everyone in a place for the completely damned?

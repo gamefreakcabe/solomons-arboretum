@@ -16,7 +16,7 @@
 
 ![The Shadow](../images/CoS/shadow2.jpeg)
 
-### Edward Lee, the prisoner
+### Edward Lee, the Prisoner
 
 ![Lee](../images/CoS/lee1.jpeg)
 
