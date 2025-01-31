@@ -4,8 +4,8 @@ theme:
   name: material
   font:
     text: Acme
-  logo: static/logo.jpeg
-  faviconi: static/logo.jpeg
+  logo: logo/sa-logo-1.jpg
+  favicon: logo/sa-logo-1.jpg
   
   features:
     # Navigation
