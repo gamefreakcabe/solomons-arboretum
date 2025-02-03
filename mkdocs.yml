@@ -4,7 +4,7 @@ theme:
   name: material
   font:
     # text: Acme
-    text: Oleo Script 700
+    text: Oleo Script
   logo: logo/sa-logo-1.jpg
   favicon: logo/sa-logo-1.jpg
   
