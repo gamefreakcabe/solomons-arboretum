@@ -3,8 +3,7 @@ site_url: https://gamefreakcabe.github.io/
 theme:
   name: material
   font:
-    # text: Acme
-    text: Oleo Script
+     text: Acme
   logo: logo/sa-logo-1.jpg
   favicon: logo/sa-logo-1.jpg
   
