@@ -3,9 +3,9 @@ site_url: https://gamefreakcabe.github.io/
 theme:
   name: material
   font:
-     #text: Acme
+     text: Acme
      #text: Berkshire Swash
-     text: Amita
+     #text: Amita
   logo: logo/sa-logo-1.jpg
   favicon: logo/sa-logo-1.jpg
   
