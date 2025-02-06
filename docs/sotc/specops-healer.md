@@ -8,11 +8,11 @@
 
 ## Subjects
 
-### Sergeant First Class Jax Sisson
+### Sergeant First Class Jax Sisson, the Spec Ops
 
 ![Sisson](../images/CoS/sission2.jpeg)
 
-### Second Lieutenant Laken Riley 
+### Second Lieutenant Laken Riley, the Healer 
 
 ![Riley](../images/CoS/riley2.jpeg)
 

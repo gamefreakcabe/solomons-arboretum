@@ -2,7 +2,7 @@
 
 ## Summary
 
-Embark on anthology of non-sequential stories following those that were most affected by "men of renown" across the vast ocean of the galaxy.
+An anthology of non-sequential fictional stories. Embark on adventures following individuals most affected by "men of renown" across the vast expanse of the galaxy. Each short story takes place in a critical moment or knowledge of critical events in the chronicles to these exceptional entities.
 
 ### The Shadow One and the Prisoner
 
@@ -14,7 +14,7 @@ After a critical mission, a special trained soldier recovers in the medical bay 
 
 ### The Convict and the Spy
 
-**In Development**
+An upstanding, well dressed gentleman with unfetter clearance is allowed access to a notorious convict in a maximum security prison. However, everyone is oblivious that the gentleman is a spy looking to get critical intel from the convict. The convict testifies that he is innocent of all the charges and is nothing more than a political prisoner to the current regime. The convict must be important if a well trained spy is risking everything to gain access to his knowledge.
 
 ### The Witch and the Templar
 
