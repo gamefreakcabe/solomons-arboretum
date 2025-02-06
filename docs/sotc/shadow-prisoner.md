@@ -1,4 +1,4 @@
-# The Shadow One and the General
+# The Shadow One and the Prisoner
 
 ## Setting
 
