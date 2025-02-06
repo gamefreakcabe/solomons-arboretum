@@ -61,7 +61,7 @@ markdown_extensions:
 
 # Navigation
 nav:
-  - Home: index.md
+  - Solomon's Arboretum: index.md
   - Athenaeum: 
     - athen/index.md
   - Scions of the Covenant:
