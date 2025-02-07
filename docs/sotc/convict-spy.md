@@ -2,7 +2,7 @@
 
 ## Setting
 
-### Interrogation Chambers, Classifed Location
+### Interrogation Chambers, Classified Location
 
 ![Prison](../images/CoS/interrogation.jpeg)
 
