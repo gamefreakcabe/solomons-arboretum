@@ -4,16 +4,16 @@
 
 ### Interrogation Chambers, Classified Location
 
-![Prison](../images/CoS/interrogation.jpeg)
+![Interrogation](../images/CoS/interrogation.jpeg)
 
 ## Subjects
 
 ### Ewan Shroyer, the Convict
 
-![The Shadow](../images/CoS/shroyer3.jpeg)
+![Shroyer](../images/CoS/shroyer3.jpeg)
 
 ### Armi Lafayette, the Spy
 
-![Lee](../images/CoS/armi.jpeg)
+![Armi](../images/CoS/armi.jpeg)
 
 ## Story

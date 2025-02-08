@@ -2,19 +2,19 @@
 
 ## Setting
 
-### Study, Unknown Location
+### Manor's Study, Unknown Location
 
-![Prison](../images/CoS/study.jpg)
+![Manor's Study](../images/CoS/study.jpg)
 
 
 ## Subjects
 
 ### ,the Witch
 
-![The Shadow](../images/CoS/witch.jpg)
+![Witch](../images/CoS/witch.jpg)
 
 ### Anonymous, the Templar
 
-![Lee](../images/CoS/templar.jpg)
+![Templar](../images/CoS/templar.jpg)
 
 ## Story
