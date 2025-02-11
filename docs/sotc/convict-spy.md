@@ -2,7 +2,11 @@
 
 ## Setting
 
-### Interrogation Chambers, Classified Location
+### Maximum Security Prison, Classified Location
+
+![Max Prison](../images/CoS/prison.jpg)
+
+### Interrogation Chambers
 
 ![Interrogation](../images/CoS/interrogation.jpeg)
 

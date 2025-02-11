@@ -2,7 +2,11 @@
 
 ## Setting
 
-### Medical Bay, Cruiser 
+### Star Cruiser, Planetary Orbit
+
+![Medical Bay](../images/CoS/battlestar.jpg)
+
+### Medical Bay
 
 ![Medical Bay](../images/CoS/medbay.jpeg)
 
