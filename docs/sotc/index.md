@@ -18,4 +18,4 @@ An upstanding, well dressed gentleman with unfetter clearance is allowed access 
 
 ## The Witch and the Templar
 
-After a massive raid on a sanctum filled members practicing the dark arts, the care taker from that sanctum is move to a manor of unknown location for questioning. Expecting to be tortured for information, she is gifted with a surprise being place in a dimly lit room filled with books, artifacts, and other items of collection. She has heard tales of this order, only known to her as the Templar, but has never seen any member. She awaits to be questioned by the prelate of the order.
+After a massive raid on a sanctum filled members practicing the dark arts, the care taker from that sanctum is moved to a manor at an unknown location for questioning. Expecting to be tortured for information, she is gifted with a surprise in being held within a dimly lit room filled with books, artifacts, and other items of priceless collection. She has heard tales of this particular order, only known to her as the Templars, but has never seen any member prior to the raid. She awaits to be questioned by the prelate of the Templar.
