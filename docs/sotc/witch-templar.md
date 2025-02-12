@@ -6,7 +6,7 @@
 
 ![Manor's Study](../images/CoS/manor.jpg)
 
-### Manor's Study, Unknown Location
+### Manor's Study
 
 ![Manor's Study](../images/CoS/study.jpg)
 
