@@ -4,6 +4,8 @@
 
 An anthology of non-sequential fictional stories. Embark on adventures following individuals most affected by "men of renown" across the vast expanse of the galaxy. Each short story takes place in a critical moment or knowledge of critical events in the chronicles to these exceptional entities.
 
+## Collection I
+
 ### The Shadow One and the Prisoner
 
 A cloaked figure visits a decrepit man, who for many years been in a prison for those who are completely removed from society and history. The cloaked figure is looking for information from the man's extensive and forgotten past. What information is so important that this mysterious stranger visits a old man long forgotten by everyone in a place for the completely damned?
