@@ -8,6 +8,6 @@ Solomon's Arboretum started in 2025 as a response to the shift in society where 
 
 ### Core Tenants
 - Historically Grounded
-- Biblical Foundation
+- Biblical Foundations
 - Base References
 - Cerebral & Sincere
