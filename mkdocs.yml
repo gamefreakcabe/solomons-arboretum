@@ -36,13 +36,13 @@ theme:
       toggle:
         icon: material/lightbulb-outline 
         name: Switch to dark mode
-      primary: blue grey
+      primary: black
       accent: purple 
     - scheme: default 
       toggle:
         icon: material/lightbulb
         name: Switch to light mode    
-      primary: black
+      primary: blue gray
       accent: lime
 
 #extra:
