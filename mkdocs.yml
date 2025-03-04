@@ -42,7 +42,7 @@ theme:
       toggle:
         icon: material/lightbulb
         name: Switch to light mode    
-      primary: blue gray
+      primary: bue grey
       accent: lime
 
 #extra:
