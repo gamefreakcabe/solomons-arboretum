@@ -13,7 +13,7 @@
 
 ## Subjects
 
-### ,the Witch
+### Jocelyn Nungaray,the Witch
 
 ![Witch](../images/CoS/witch.jpg)
 
