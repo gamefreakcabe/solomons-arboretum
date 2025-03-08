@@ -13,11 +13,11 @@
 
 ## Subjects
 
-### Jocelyn Nungaray,the Witch
+### Jocelyn Nungaray, the Witch
 
 ![Witch](../images/CoS/witch.jpg)
 
-### Anonymous, the Templar
+### Prelate, the Templar
 
 ![Templar](../images/CoS/templar.jpg)
 
