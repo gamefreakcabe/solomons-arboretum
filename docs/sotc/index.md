@@ -6,7 +6,7 @@ An anthology of non-sequential fictional stories. Embark on adventures following
 
 ## Collection I
 
-### Tale I: I: The Shadow One and the Prisoner
+### Tale I: The Shadow One and the Prisoner
 
 A cloaked figure visits a decrepit man, who for many years been in a prison for those who are completely removed from society and history. The cloaked figure is looking for information from the man's extensive and forgotten past. What information is so important that this mysterious stranger visits a old man long forgotten by everyone in a place for the completely damned?
 
