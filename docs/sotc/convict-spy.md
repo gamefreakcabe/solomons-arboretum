@@ -30,4 +30,4 @@
 
 ## Story
 
-<a href="../sotc/convict-spy.pdf" download>Story</a>
+<a href="../sotc/convict-spy.pdf" download>Download Story</a>
