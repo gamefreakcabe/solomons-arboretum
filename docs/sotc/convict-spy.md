@@ -30,4 +30,7 @@
 
 ## Story
 
-<a href="../sotc/convict-spy.pdf" download>Download Story</a>
+
+## Download
+
+<a href="../sotc/convict-spy.pdf" download>The Convict and the Spy</a>
