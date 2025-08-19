@@ -32,5 +32,4 @@
 
 
 ## Download
-
-<a href="../sotc/convict-spy.pdf" download>The Convict and the Spy</a>
+[The Convict and the Spy](../sotc/convict-spy.pdf){:download="awesome-file"}
