@@ -32,4 +32,4 @@
 
 
 ## Download
-[The Convict and the Spy](../sotc/convict-spy.pdf){:download="awesome-file"}
+[The Convict and the Spy](../sotc/convict-spy.pdf)
