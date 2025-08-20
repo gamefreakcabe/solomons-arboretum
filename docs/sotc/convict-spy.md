@@ -30,6 +30,3 @@
 
 ## Story
 
-
-## Download
-[The Convict and the Spy](../sotc/convict-spy.pdf)

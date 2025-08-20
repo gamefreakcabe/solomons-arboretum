@@ -24,3 +24,4 @@ After a massive raid on a sanctum filled members practicing the dark arts, the c
 
 ## Download Tales
 
+[Download Page](download.md)
