@@ -2,7 +2,7 @@
 
 ## Summary
 
-An anthology of non-sequential fictional stories. Embark on adventures following individuals most affected by "men of renown" across the vast expanse of the galaxy. Each short story takes place in a critical moment or knowledge of critical events in the chronicles to these exceptional entities.
+An collection of non-sequential fictional stories. Embark on adventures following individuals most affected by "men of renown" across the vast expanse of the galaxy. Each short story takes place in a critical moment or knowledge of critical events in the chronicles to these exceptional entities.
 
 ## Collection I
 
