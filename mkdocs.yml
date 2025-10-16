@@ -64,6 +64,8 @@ nav:
   - Solomon's Arboretum: index.md
   - Athenaeum: 
     - athen/index.md
+  - Exhibition:
+    - exhibition/index.md
   - Scions of the Covenant:
     - sotc/index.md
     - The Shadow One and the Prisoner: sotc/shadow-prisoner.md
