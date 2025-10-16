@@ -1,6 +1,6 @@
 # Solomon's Arboretum 
 
-![Logo](logo/sa-logo-1.jpg)
+![Logo](images/logo/sa-logo-1.jpg)
 
 ## Origin
 
