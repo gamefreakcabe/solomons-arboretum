@@ -6,8 +6,8 @@ theme:
      text: Acme
      #text: Berkshire Swash
      #text: Amita
-  logo: logo/sa-logo-1.jpg
-  favicon: logo/sa-logo-1.jpg
+  logo: images/logo/sa-logo-1.jpg
+  favicon: images/logo/sa-logo-1.jpg
   
   features:
     # Navigation
