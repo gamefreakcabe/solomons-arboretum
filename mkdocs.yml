@@ -72,7 +72,7 @@ plugins:
        skip_classes:
          - custom-skip-class-name
        auto_themed: false
-       auto_caption: false
+       auto_caption: true
        caption_position: bottom
        background: white
        shadow: true
