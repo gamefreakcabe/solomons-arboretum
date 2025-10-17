@@ -59,6 +59,9 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
 
+plugins:
+   - glightbox
+
 # Navigation
 nav:
   - Solomon's Arboretum: index.md
