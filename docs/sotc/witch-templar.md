@@ -15,10 +15,10 @@
 
 ### Jocelyn Nungaray, the Witch
 
-![Witch](../images/CoS/witch.jpg)
+![Jocelyn Nungaray, the Witch](../images/CoS/witch.jpg)
 
 ### Prelate, the Templar
 
-![Templar](../images/CoS/templar.jpg)
+![Prelate, the Templar](../images/CoS/templar.jpg)
 
 ## Story

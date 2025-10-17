@@ -8,7 +8,7 @@
 
 ### Prison Cell
 
-![Prison-Cell](../images/CoS/desert-prison-8.jpeg)
+![Prison Cell](../images/CoS/desert-prison-8.jpeg)
 
 ## Subjects
 
@@ -18,6 +18,6 @@
 
 ### Edward Lee, the Prisoner
 
-![Lee](../images/CoS/lee1.jpeg)
+![The Prisoner](../images/CoS/lee1.jpeg)
 
 ## Story

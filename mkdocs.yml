@@ -59,7 +59,9 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
 
+# Plugins
 plugins:
+  # GLightBox - Photos
    - glightbox:
        touchNavigation: true
        loop: true

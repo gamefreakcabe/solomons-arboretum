@@ -24,7 +24,7 @@
 
 ### Armi Lafayette, the Spy
 
-![Armi](../images/CoS/armi.jpeg)
+![Armi Lafayette](../images/CoS/armi.jpeg)
 
 <div style="page-break-after: always;"></div>
 

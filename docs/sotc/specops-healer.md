@@ -14,10 +14,10 @@
 
 ### Sergeant First Class Jax Sisson, the Spec Ops
 
-![Sisson](../images/CoS/sission2.jpeg)
+![Sergeant First Class Jax Sisson](../images/CoS/sission2.jpeg)
 
 ### Second Lieutenant Laken Riley, the Healer 
 
-![Riley](../images/CoS/riley2.jpeg)
+![Second Lieutenant Laken Riley](../images/CoS/riley2.jpeg)
 
 ## Story
