@@ -11,3 +11,11 @@ Solomon's Arboretum started in 2025 as a response to the shift in society where 
 - Biblical Foundations
 - Base References
 - Cerebral & Sincere
+
+## [Athenaeum](./athen/index.md)
+
+## [Exhibition](./exhibition/index.md)
+
+## [Scions of the Covenant](./sotc/index.md)
+
+## [Credits](./credits.md)
