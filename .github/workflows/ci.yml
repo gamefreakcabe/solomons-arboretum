@@ -25,6 +25,8 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
+          publish_dir: ./public # or your build directory
+          cname: solomon.cabecasa.net
       - run: pip install mkdocs-material 
       - run: pip install "mkdocs-material[imaging]"
       - run: pip install mkdocs-glightbox
