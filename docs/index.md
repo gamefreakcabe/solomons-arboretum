@@ -14,7 +14,7 @@ Solomon's Arboretum started in 2025 as a response to the shift in society where 
 
 ## [Athenaeum](./athen/index.md)
 
-Library works
+Research papers
 
 ## [Exhibition](./exhibition/index.md)
 
