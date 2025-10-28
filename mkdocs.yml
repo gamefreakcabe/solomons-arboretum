@@ -79,6 +79,9 @@ plugins:
        background: white
        shadow: true
        manual: false
+extra:
+  generator: false
+
 
 # Navigation
 nav:
