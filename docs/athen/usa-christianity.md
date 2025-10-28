@@ -1,0 +1,55 @@
+# Paper I: Christianity in these United Stated of America
+
+## United States Senate to President Lincoln - March 2, 1863
+
+...encouraged in this day of trouble by the assurances of His word to seek Him for succor according to His appointed way through Jesus Christ, the Senate of the United States do hereby request the President of the United States, by his proclamation, to designate and set apart a day for national prayer and humiliation
+
+[Proclamation – Fasting Humiliation and Prayer – 1863](https://wallbuilders.com/resource/proclamation-fasting-humiliation-and-prayer-1863/)
+
+But were we assured that there is to be no future life, and that men are to perish at death like the beasts of the field; the moral principles and precepts contained in the scriptures ought to form the basis of all our civil constitutions and laws.
+
+Advice to the Young 
+P. 53
+Noah Webster
+
+"That the Bible contains more knowledge necessary to man in his present state, than any other book in the world."
+
+Letter to Reverend Jeremy Belknap,  1791
+Benjamin Rush, Father of Public Schools in America
+Transcribe in "In Defence of the Use of the Bible in Schools", 1830
+
+As a Christian Nation our earnest desire is to work with men of good will everywhere to banish war and the causes of war from the world whose Creator desired that men of every race and in every clime should live together in peace, good will and mutual trust.
+
+Exchange of Messages With Pope Pius XII
+President Harry Truman, 1947
+
+"The Congress of the United States, in recognition of the unique contribution of the Bible in shaping the history and character of this Nation, and so many of its citizens, has by Senate Joint Resolution 165 authorized and requested the President to designate the year 1983 as the "Year of the Bible."
+
+Proclamation 5018—Year of the Bible
+Ronald Reagan, 1983
+
+"I proceed in the next place, to enquire, what mode of education we shall adopt so as to secure to the state all the advantages that are to be derived from the proper instruction of youth; and here I beg leave to remark, that the only foundation for a useful education in a republic is to be laid in Religion."
+
+Essays, literary, moral & philosophical; page 8
+Benjamin Rush; "Father of Public Schools in America"
+
+Religion, morality, and knowledge, being necessary to good government and the happiness of mankind, schools and the means of education shall forever be encouraged.
+
+Article III, Northwest Ordinance (1787)
+
+"But what has all this to do with religion and the Church? 
+Just this: a free church in a free state must exercise a direct and dominant moral influence upon the tone of domestic and political life. 
+If not, then may God have mercy upon such dumb, impotent, and useless parody on Christianity."
+
+The People Responsible For The Character Of Their Rulers
+Rev. Henry Van Dyke,  New York, February 24th, 1895
+
+Of all the dispositions and habits which lead to political prosperity, religion and morality are indispensable supports. In vain would that man claim the tribute of patriotism who should labor to subvert these great pillars of human happiness...
+
+George Washington, Farewell Address 1796
+
+To the children and youth of the US:
+
+Hold fast to the Bible as the sheet-anchor of your liberties; write its precepts in your heats, and practice them in your lives. To the influence of this Book we are indebted for all the progress made in true civilization, and to this we must look for our guide in the future. “Righteousness exalteth a nation; but sin is a reproach to any people.”
+
+Ulysses S. Grant, Centennial Message of President Grant -1876
