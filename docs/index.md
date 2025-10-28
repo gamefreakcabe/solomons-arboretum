@@ -14,11 +14,11 @@ Solomon's Arboretum started in 2025 as a response to the shift in society where 
 
 ## [Athenaeum](./athen/index.md)
 
-History is one of the most difficult subject. (1) The longer that time pass, the harder teaching history becomes. As such, many education institutions resort to "bullet point" history, which lead to a very narrow view of history. Keeping in the tradition of ancient Rome, the Athenaeum is a library of research papers to uncommonly known subjects.
+History is one of the most difficult subject. (1) The longer that time pass, the harder teaching history becomes. As such, many education institutions resort to "bullet point" history, which lead to a very narrow view of history. Keeping in the tradition of ancient Rome, the Athenaeum is a library of research papers to uncommonly known subjects. (2)
 { .annotate }
 
-1.  :man_raising_hand: I'm an annotation! I can contain `code`, __formatted
-    text__, images, ... basically anything that can be expressed in Markdown. 
+1.  I'm an annotation!
+2.  Another one 
 
 ## [Exhibition](./exhibition/index.md)
 
@@ -29,9 +29,3 @@ Photo and art collections.
 Short stories
 
 ## [Credits](./credits.md)
-
-Lorem ipsum dolor sit amet, (1) consectetur adipiscing elit.
-{ .annotate }
-
-1.  :man_raising_hand: I'm an annotation! I can contain `code`, __formatted
-    text__, images, ... basically anything that can be expressed in Markdown.
