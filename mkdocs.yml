@@ -82,7 +82,7 @@ extra:
 
 # Navigation
 nav:
-  - Solomon's Arboretum: index.md
+  - Home: index.md
   - Athenaeum: 
     - athen/index.md
   - Exhibition:
@@ -91,6 +91,6 @@ nav:
     - sotc/index.md
     - The Shadow One and the Prisoner: sotc/shadow-prisoner.md
     - The Spec Ops and the Healer: sotc/specops-healer.md
-    - The Convict and the Spy: sotc/convict-spy.md
+    #- The Convict and the Spy: sotc/convict-spy.md
     - The Witch and the Templar: sotc/witch-templar.md
   - Credits: credits.md
