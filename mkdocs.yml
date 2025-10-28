@@ -9,8 +9,7 @@ theme:
   logo: images/logo/sa-logo-1.jpg
   favicon: images/logo/sa-logo-1.jpg
   icon:
-    annotation: material/arrow-right-circle
-  
+    annotation: material/linux  
   features:
     # Navigation
     - navigation.instant
