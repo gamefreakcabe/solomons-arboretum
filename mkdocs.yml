@@ -8,6 +8,8 @@ theme:
      #text: Amita
   logo: images/logo/sa-logo-1.jpg
   favicon: images/logo/sa-logo-1.jpg
+  icon:
+    annotation: material/linux
   
   features:
     # Navigation
