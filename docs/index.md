@@ -21,13 +21,16 @@ History is one of the most difficult subject. The longer that time pass, the har
 Photo and art collections. (1)
 { .annotate }
 
-1. More to come 
+
 
 ## [Scions of the Covenant](./sotc/index.md)
 
 Short stories (1)
 { .annotate }
 
-1. More to come 
+
 
 ## [Credits](./credits.md)
+
+
+1. More to come 
