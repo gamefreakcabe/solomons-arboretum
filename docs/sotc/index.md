@@ -14,9 +14,11 @@ A cloaked figure visits a decrepit man, who for many years been in a prison for 
 
 After a critical mission, a special trained soldier recovers in the medical bay on board a star cruiser orbiting a planet. While the soldier is being tended for his wound, the young medical officer ask the soldier questions about his duties, his past, and his beliefs. Her preconceive ideas of all the subjects would be challenge as she learns there are more to what she has heard from popular opinions.
 
-### [Tale III: The Convict and the Spy](convict-spy.md)
 
-An upstanding, well dressed gentleman with unfetter clearance is allowed access to a notorious convict in a maximum security prison. However, everyone is oblivious that the gentleman is a spy looking to get critical intel from the convict. The convict testifies that he is innocent of all the charges and is nothing more than a political prisoner to the current regime. The convict must be important if a well trained spy is risking everything to gain access to his knowledge.
+[//]:# "Comment out for reconsideration"
+[//]:# "### [Tale III: The Convict and the Spy](convict-spy.md)"
+
+[//]:# "An upstanding, well dressed gentleman with unfetter clearance is allowed access to a notorious convict in a maximum security prison. However, everyone is oblivious that the gentleman is a spy looking to get critical intel from the convict. The convict testifies that he is innocent of all the charges and is nothing more than a political prisoner to the current regime. The convict must be important if a well trained spy is risking everything to gain access to his knowledge."
 
 ### [Tale IV: The Witch and the Templar](witch-templar.md)
 
