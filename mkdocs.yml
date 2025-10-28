@@ -52,6 +52,7 @@ theme:
 markdown_extensions:
   - attr_list
   - md_in_html
+  - pymdownx.superfences
 
 # Extenstion for mermaid support
 markdown_extensions:
