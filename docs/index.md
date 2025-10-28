@@ -16,15 +16,18 @@ Solomon's Arboretum started in 2025 as a response to the shift in society where 
 
 History is one of the most difficult subject. The longer that time pass, the harder teaching history becomes. As such, many education institutions resort to "bullet point" history, which lead to a very narrow view of history. Keeping in the tradition of ancient Rome, the Athenaeum is a library of research papers to uncommonly known subjects.
 
-## [Exhibition](./exhibition/index.md) (1)
+## [Exhibition](./exhibition/index.md)
+
+Photo and art collections. (1)
 { .annotate }
 
-1. More to come
-
-Photo and art collections. 
+1. More to come 
 
 ## [Scions of the Covenant](./sotc/index.md)
 
-Short stories
+Short stories (1)
+{ .annotate }
+
+1. More to come 
 
 ## [Credits](./credits.md)
