@@ -6,17 +6,17 @@
 
 [Proclamation – Fasting Humiliation and Prayer – 1863](https://wallbuilders.com/resource/proclamation-fasting-humiliation-and-prayer-1863/)
 
+## Advice to the Young - Noah Webster
+
 But were we assured that there is to be no future life, and that men are to perish at death like the beasts of the field; the moral principles and precepts contained in the scriptures ought to form the basis of all our civil constitutions and laws.
 
-Advice to the Young 
-P. 53
-Noah Webster
+[Analysis of Noah Webster’s “Advice to the Young”](https://users.manchester.edu/Student/GJTribbett/Webpage/Noah%20Webster.pdf)
+
+## Letter to Reverend Jeremy Belknap from Benjamin Rush, Father of Public Schools in America - 1791
 
 "That the Bible contains more knowledge necessary to man in his present state, than any other book in the world."
 
-Letter to Reverend Jeremy Belknap,  1791
-Benjamin Rush, Father of Public Schools in America
-Transcribe in "In Defence of the Use of the Bible in Schools", 1830
+["In Defence of the Use of the Bible in Schools" - 1830](https://wallbuilders.com/resource/a-defence-of-the-use-of-the-bible-in-schools/)
 
 As a Christian Nation our earnest desire is to work with men of good will everywhere to banish war and the causes of war from the world whose Creator desired that men of every race and in every clime should live together in peace, good will and mutual trust.
 
