@@ -18,15 +18,18 @@ But were we assured that there is to be no future life, and that men are to peri
 
 ["In Defence of the Use of the Bible in Schools" - 1830](https://wallbuilders.com/resource/a-defence-of-the-use-of-the-bible-in-schools/)
 
+## A Christian Nation: President Harry Truman - 1947
+
 As a Christian Nation our earnest desire is to work with men of good will everywhere to banish war and the causes of war from the world whose Creator desired that men of every race and in every clime should live together in peace, good will and mutual trust.
 
-Exchange of Messages With Pope Pius XII
-President Harry Truman, 1947
+[Exchange of Messages With Pope Pius XII](https://www.presidency.ucsb.edu/documents/exchange-messages-with-pope-pius-xii)
+
+## Year of the Bible - 1983
 
 "The Congress of the United States, in recognition of the unique contribution of the Bible in shaping the history and character of this Nation, and so many of its citizens, has by Senate Joint Resolution 165 authorized and requested the President to designate the year 1983 as the "Year of the Bible."
 
-Proclamation 5018—Year of the Bible
-Ronald Reagan, 1983
+[Proclamation 5018—Year of the Bible](https://www.govinfo.gov/content/pkg/STATUTE-97/pdf/STATUTE-97-Pg1545.pdf)
+
 
 "I proceed in the next place, to enquire, what mode of education we shall adopt so as to secure to the state all the advantages that are to be derived from the proper instruction of youth; and here I beg leave to remark, that the only foundation for a useful education in a republic is to be laid in Religion."
 
