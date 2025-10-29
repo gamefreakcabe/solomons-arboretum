@@ -30,15 +30,18 @@ As a Christian Nation our earnest desire is to work with men of good will everyw
 
 [Proclamation 5018—Year of the Bible](https://www.govinfo.gov/content/pkg/STATUTE-97/pdf/STATUTE-97-Pg1545.pdf)
 
+## In the work section
 
 "I proceed in the next place, to enquire, what mode of education we shall adopt so as to secure to the state all the advantages that are to be derived from the proper instruction of youth; and here I beg leave to remark, that the only foundation for a useful education in a republic is to be laid in Religion."
 
 Essays, literary, moral & philosophical; page 8
 Benjamin Rush; "Father of Public Schools in America"
 
+## Territories to obtain statehood and join the Union
+
 Religion, morality, and knowledge, being necessary to good government and the happiness of mankind, schools and the means of education shall forever be encouraged.
 
-Article III, Northwest Ordinance (1787)
+[Article III, Northwest Ordinance - 1787](https://www.archives.gov/milestone-documents/northwest-ordinance)
 
 "But what has all this to do with religion and the Church? 
 Just this: a free church in a free state must exercise a direct and dominant moral influence upon the tone of domestic and political life. 
