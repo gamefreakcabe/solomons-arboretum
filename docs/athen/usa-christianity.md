@@ -30,12 +30,11 @@ As a Christian Nation our earnest desire is to work with men of good will everyw
 
 [Proclamation 5018—Year of the Bible](https://www.govinfo.gov/content/pkg/STATUTE-97/pdf/STATUTE-97-Pg1545.pdf)
 
-## In the work section
+## Essays, Literary, Moral and Philosophical by Benjamin Rush "Father of Public Schools in America"
 
 "I proceed in the next place, to enquire, what mode of education we shall adopt so as to secure to the state all the advantages that are to be derived from the proper instruction of youth; and here I beg leave to remark, that the only foundation for a useful education in a republic is to be laid in Religion."
 
-Essays, literary, moral & philosophical; page 8
-Benjamin Rush; "Father of Public Schools in America"
+[Philadelphia: Thomas and William Bradford - 1806](https://archive.org/details/essaysliterarymo00inrush/page/8/mode/2up)
 
 ## Territories to obtain statehood and join the Union
 
