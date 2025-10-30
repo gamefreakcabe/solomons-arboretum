@@ -42,19 +42,25 @@ Religion, morality, and knowledge, being necessary to good government and the ha
 
 [Article III, Northwest Ordinance - 1787](https://www.archives.gov/milestone-documents/northwest-ordinance)
 
+## Reverend Henry Van Dyke before the Society of Sons of the Revolution
+
 "But what has all this to do with religion and the Church? 
 Just this: a free church in a free state must exercise a direct and dominant moral influence upon the tone of domestic and political life. 
 If not, then may God have mercy upon such dumb, impotent, and useless parody on Christianity."
 
-The People Responsible For The Character Of Their Rulers
-Rev. Henry Van Dyke,  New York, February 24th, 1895
+[The People Responsible For The Character Of Their Rulers - February 24th, 1895](https://wallbuilders.com/resource/sermon-people-responsible-for-character-of-rulers-1895/)
+
+## George Washington's Farewell Address
 
 Of all the dispositions and habits which lead to political prosperity, religion and morality are indispensable supports. In vain would that man claim the tribute of patriotism who should labor to subvert these great pillars of human happiness...
 
-George Washington, Farewell Address 1796
+[Farewell Address 1796 - page 16](https://www.senate.gov/artandhistory/history/resources/pdf/Washingtons_Farewell_Address.pdf?utm_source=substack&utm_medium=email)
+
+
+## Message to the youth from Ulysses S. Grant 
 
 To the children and youth of the US:
 
 Hold fast to the Bible as the sheet-anchor of your liberties; write its precepts in your heats, and practice them in your lives. To the influence of this Book we are indebted for all the progress made in true civilization, and to this we must look for our guide in the future. “Righteousness exalteth a nation; but sin is a reproach to any people.”
 
-Ulysses S. Grant, Centennial Message of President Grant -1876
+[Centennial Message of President Grant - 1876](https://wallbuilders.com/resource/message-of-president-grant-to-the-children-and-youth-of-the-u-s/)
