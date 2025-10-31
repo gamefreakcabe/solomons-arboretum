@@ -85,6 +85,9 @@ nav:
   - Home: index.md
   - Athenaeum: 
     - athen/index.md
+    - Christianity in these United Stated of America: athen/usa-christianity.md
+    - Eradication of Religion in Public Space: athen/eradicate-religion.md
+    - Biblical Constitution: athen/biblical-constitution.md
   - Exhibition:
     - exhibition/index.md
   - Scions of the Covenant:
